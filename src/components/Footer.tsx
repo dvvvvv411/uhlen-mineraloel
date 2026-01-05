@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-4">
             <img 
               src="/lovable-uploads/greenoil.png" 
-              alt="GreenOil" 
+              alt="Uhlen Mineralöl" 
               className="h-20"
             />
             <p className="text-gray-300 leading-relaxed">
@@ -19,7 +19,7 @@ const Footer = () => {
               Qualität, Service und faire Preise.
             </p>
             <div>
-              <div className="font-semibold">Green Oil Trade and Service GmbH</div>
+              <div className="font-semibold">H.T.U GmbH</div>
               <div className="text-sm text-gray-400">Deutschlands Heizöl-Experte</div>
             </div>
           </div>
@@ -43,13 +43,13 @@ const Footer = () => {
             <div className="space-y-3 text-gray-300">
               <div className="flex items-center space-x-3">
                 <Mail size={16} className="text-primary-400" />
-                <span>info@greenoil-energie.de</span>
+                <span>info@uhlen-mineraloel.de</span>
               </div>
               <div className="flex items-start space-x-3">
                 <MapPin size={16} className="text-accent-orange-400 mt-1" />
                 <div>
-                  <div>Kühgassfelderweg 13</div>
-                  <div>90482 Nürnberg</div>
+                  <div>Schulze-Delitzsch-Str. 1</div>
+                  <div>49716 Meppen</div>
                 </div>
               </div>
             </div>
@@ -84,7 +84,7 @@ const Footer = () => {
         <div className="border-t border-gray-800 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm">
-              © 2025 Green Oil Trade and Service GmbH. Alle Rechte vorbehalten.
+              © 2025 H.T.U GmbH. Alle Rechte vorbehalten.
             </div>
             <div className="flex space-x-6 mt-4 md:mt-0 text-sm text-gray-400">
               <Link to="/impressum" className="hover:text-accent-orange-400 transition-colors">Impressum</Link>

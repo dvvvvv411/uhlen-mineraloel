@@ -8,8 +8,8 @@ const Impressum = () => {
   return (
     <div className="min-h-screen">
       <Helmet>
-        <title>Impressum | GreenOil - Green Oil Trade and Service GmbH</title>
-        <meta name="description" content="Impressum und Kontaktdaten der Green Oil Trade and Service GmbH, Nürnberg. Alle rechtlichen Informationen und Unternehmensangaben." />
+        <title>Impressum | Uhlen Mineralöl - H.T.U GmbH</title>
+        <meta name="description" content="Impressum und Kontaktdaten der H.T.U GmbH, Meppen. Alle rechtlichen Informationen und Unternehmensangaben." />
       </Helmet>
       <Header />
 
@@ -33,7 +33,7 @@ const Impressum = () => {
               <CardContent className="space-y-3">
                 <div>
                   <h3 className="font-semibold text-gray-900">Firma:</h3>
-                  <p className="text-gray-700">Green Oil Trade and Service GmbH</p>
+                  <p className="text-gray-700">H.T.U GmbH</p>
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Rechtsform:</h3>
@@ -41,15 +41,15 @@ const Impressum = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Handelsregister:</h3>
-                  <p className="text-gray-700">HRB 32692</p>
+                  <p className="text-gray-700">HRB 121622</p>
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Registergericht:</h3>
-                  <p className="text-gray-700">Amtsgericht Nürnberg</p>
+                  <p className="text-gray-700">Amtsgericht Osnabrück</p>
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900">USt-IdNr.:</h3>
-                  <p className="text-gray-700">DE427997637</p>
+                  <p className="text-gray-700">DE333109533</p>
                 </div>
               </CardContent>
             </Card>
@@ -67,9 +67,9 @@ const Impressum = () => {
                   <div>
                     <h3 className="font-semibold text-gray-900">Anschrift:</h3>
                     <p className="text-gray-700">
-                      Green Oil Trade and Service GmbH<br />
-                      Kühgassfelderweg 13<br />
-                      90482 Nürnberg<br />
+                      H.T.U GmbH<br />
+                      Schulze-Delitzsch-Str. 1<br />
+                      49716 Meppen<br />
                       Deutschland
                     </p>
                   </div>
@@ -79,7 +79,7 @@ const Impressum = () => {
                   <Mail className="text-primary-600" size={20} />
                   <div>
                     <h3 className="font-semibold text-gray-900">E-Mail:</h3>
-                    <p className="text-gray-700">info@greenoil-energie.de</p>
+                    <p className="text-gray-700">info@uhlen-mineraloel.de</p>
                   </div>
                 </div>
               </CardContent>
@@ -91,7 +91,7 @@ const Impressum = () => {
               <CardTitle>Geschäftsführung</CardTitle>
             </CardHeader>
             <CardContent>
-              <p className="text-gray-700">Zhongfu Tang</p>
+              <p className="text-gray-700">Marco Uhlen</p>
             </CardContent>
           </Card>
 
