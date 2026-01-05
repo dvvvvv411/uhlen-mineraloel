@@ -21,7 +21,7 @@ const AboutUs = () => {
       const stepDuration = duration / steps;
       
       const targets = {
-        years: 21,
+        years: 23,
         customers: 100000,
         rating: 4.9,
         deliveries: 200000
@@ -75,8 +75,8 @@ const AboutUs = () => {
   return (
     <div className="min-h-screen">
       <Helmet>
-        <title>Über GreenOil | Ihr zuverlässiger Heizöl-Partner</title>
-        <meta name="description" content="Erfahren Sie mehr über GreenOil - Green Oil Trade and Service GmbH. Qualität, Service und Nachhaltigkeit seit Jahren. Ihr Partner für Heizöl in Deutschland." />
+        <title>Über Uhlen Mineralöl | Ihr zuverlässiger Heizöl-Partner</title>
+        <meta name="description" content="Erfahren Sie mehr über Uhlen Mineralöl - H.T.U GmbH. Qualität, Service und Nachhaltigkeit seit 2002. Ihr Partner für Heizöl in Deutschland." />
       </Helmet>
       <Header />
 
@@ -84,16 +84,16 @@ const AboutUs = () => {
       <section className="bg-gradient-to-br from-primary-50 to-primary-100 py-20">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-5xl font-bold text-gray-900 mb-6">
-            Über Green Oil Trade and Service GmbH
+            Über H.T.U GmbH
           </h1>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto mb-8">
-            Seit 2016 Ihr zuverlässiger Partner für Premium-Heizöl in Deutschland. 
+            Seit 2002 Ihr zuverlässiger Partner für Premium-Heizöl in Deutschland. 
             Qualität, Service und faire Preise sind unser Versprechen an Sie.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="outline" className="border-primary-600 text-primary-600 hover:bg-primary-50">
               <Mail className="mr-2" size={20} />
-              info@greenoil-energie.de
+              info@uhlen-mineraloel.de
             </Button>
           </div>
         </div>
@@ -141,9 +141,9 @@ const AboutUs = () => {
               </h2>
               <div className="space-y-4 text-gray-700 text-lg leading-relaxed">
                 <p>
-                  Im Jahr 2016 wurde Green Oil Trade and Service GmbH mit dem Ziel gegründet, 
+                  Im Jahr 2002 wurde H.T.U GmbH mit dem Ziel gegründet, 
                   Kunden in Deutschland mit hochwertigem Heizöl zu fairen Preisen zu versorgen. 
-                  Was als Unternehmen in Nürnberg begann, hat sich zu einem der 
+                  Was als Unternehmen in Meppen begann, hat sich zu einem der 
                   führenden Heizöl-Anbieter in der Region entwickelt.
                 </p>
                 <p>
@@ -163,10 +163,10 @@ const AboutUs = () => {
             <div className="relative">
               <div className="bg-gradient-to-br from-primary-500 to-primary-700 rounded-2xl p-12 text-white text-center shadow-2xl">
                 <Building size={80} className="mx-auto mb-6 text-primary-100" />
-                <h3 className="text-3xl font-bold mb-4">GreenOil</h3>
-                <p className="text-xl text-primary-100 mb-6">Green Oil Trade and Service GmbH</p>
+                <h3 className="text-3xl font-bold mb-4">Uhlen Mineralöl</h3>
+                <p className="text-xl text-primary-100 mb-6">H.T.U GmbH</p>
                 <div className="space-y-2 text-primary-100">
-                  <p>Seit 2016 in Nürnberg</p>
+                  <p>Seit 2002 in Meppen</p>
                   <p>Deutschlands Heizöl-Experte</p>
                 </div>
               </div>
@@ -180,7 +180,7 @@ const AboutUs = () => {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-900 mb-6">
-              Warum Heizöl von GreenOil wählen?
+              Warum Heizöl von Uhlen Mineralöl wählen?
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
               Wir bieten Ihnen mehr als nur Heizöl - wir bieten Ihnen Sicherheit, 
@@ -322,7 +322,7 @@ const AboutUs = () => {
               <CardContent className="p-12">
                 <div className="text-center mb-8">
                   <h2 className="text-3xl font-bold text-gray-900 mb-4">
-                    Green Oil Trade and Service GmbH
+                    H.T.U GmbH
                   </h2>
                   <p className="text-xl text-gray-600">
                     Ihr Partner für Heizöl in Deutschland
@@ -333,9 +333,9 @@ const AboutUs = () => {
                   <div>
                     <h3 className="text-xl font-bold text-gray-900 mb-4">Anschrift</h3>
                     <div className="space-y-2 text-gray-700">
-                      <p>Green Oil Trade and Service GmbH</p>
-                      <p>Kühgassfelderweg 13</p>
-                      <p>90482 Nürnberg</p>
+                      <p>H.T.U GmbH</p>
+                      <p>Schulze-Delitzsch-Str. 1</p>
+                      <p>49716 Meppen</p>
                       <p>Deutschland</p>
                     </div>
                   </div>
@@ -345,7 +345,7 @@ const AboutUs = () => {
                     <div className="space-y-3">
                       <div className="flex items-center">
                         <Mail className="text-primary-600 mr-3" size={20} />
-                        <span className="text-gray-700">info@greenoil-energie.de</span>
+                        <span className="text-gray-700">info@uhlen-mineraloel.de</span>
                       </div>
                     </div>
                   </div>
@@ -353,9 +353,9 @@ const AboutUs = () => {
                   <div>
                     <h3 className="text-xl font-bold text-gray-900 mb-4">Handelsregister</h3>
                     <div className="space-y-2 text-gray-700">
-                      <p>HRB 32692</p>
-                      <p>Amtsgericht Nürnberg</p>
-                      <p>USt-IdNr.: DE427997637</p>
+                      <p>HRB 121622</p>
+                      <p>Amtsgericht Osnabrück</p>
+                      <p>USt-IdNr.: DE333109533</p>
                     </div>
                   </div>
 

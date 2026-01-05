@@ -6,7 +6,7 @@ const CompanySection = () => {
   const stats = [
     {
       icon: Building,
-      number: '2016',
+      number: '2002',
       label: 'Gegründet',
       description: 'Über 20 Jahre Erfahrung'
     },
@@ -35,7 +35,7 @@ const CompanySection = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Über GreenOil
+            Über Uhlen Mineralöl
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Ihr zuverlässiger Partner für Heizöl in Deutschland mit über 20 Jahren Erfahrung. 
@@ -51,9 +51,9 @@ const CompanySection = () => {
             </h3>
             <div className="space-y-4 text-gray-700 leading-relaxed">
               <p>
-                Seit der Gründung im Jahr 2016 haben wir uns zu einem der führenden 
+                Seit der Gründung im Jahr 2002 haben wir uns zu einem der führenden 
                 Heizöl-Anbieter in Deutschland entwickelt. Was als Unternehmen 
-                in Nürnberg begann, ist heute ein zuverlässiger Partner für über 100.000 
+                in Meppen begann, ist heute ein zuverlässiger Partner für über 100.000 
                 Kunden in ganz Deutschland.
               </p>
               <p>
@@ -77,7 +77,7 @@ const CompanySection = () => {
                 <div className="h-96 w-full">
                   <img 
                     src="https://i.imgur.com/xPI8LoI.jpeg" 
-                    alt="GreenOil Unternehmen" 
+                    alt="Uhlen Mineralöl Unternehmen" 
                     className="w-full h-full object-cover"
                   />
                 </div>

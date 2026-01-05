@@ -8,8 +8,8 @@ const AGB = () => {
   return (
     <div className="min-h-screen">
       <Helmet>
-        <title>AGB | Allgemeine Geschäftsbedingungen - GreenOil</title>
-        <meta name="description" content="Allgemeine Geschäftsbedingungen der Green Oil Trade and Service GmbH für Heizöl-Bestellungen und Lieferungen." />
+        <title>AGB | Allgemeine Geschäftsbedingungen - Uhlen Mineralöl</title>
+        <meta name="description" content="Allgemeine Geschäftsbedingungen der H.T.U GmbH für Heizöl-Bestellungen und Lieferungen." />
       </Helmet>
       <Header />
 
@@ -18,7 +18,7 @@ const AGB = () => {
           <div className="text-center mb-12">
             <h1 className="text-4xl font-bold text-gray-900 mb-4">Allgemeine Geschäftsbedingungen</h1>
             <p className="text-xl text-gray-600">
-              Gültig ab 01.01.2025 für Green Oil Trade and Service GmbH
+              Gültig ab 01.01.2025 für H.T.U GmbH
             </p>
           </div>
 
@@ -31,7 +31,7 @@ const AGB = () => {
             </CardHeader>
             <CardContent>
               <p className="text-gray-700 text-sm leading-relaxed">
-                Diese Allgemeinen Geschäftsbedingungen gelten für alle Lieferungen und Leistungen der Green Oil Trade and Service GmbH, Kühgassfelderweg 13, 90482 Nürnberg (nachfolgend "Verkäufer" genannt) an Verbraucher und Unternehmer (nachfolgend "Kunden" genannt). Abweichende Bedingungen des Kunden werden nicht anerkannt, es sei denn, der Verkäufer stimmt ihrer Geltung ausdrücklich schriftlich zu.
+                Diese Allgemeinen Geschäftsbedingungen gelten für alle Lieferungen und Leistungen der H.T.U GmbH, Schulze-Delitzsch-Str. 1, 49716 Meppen (nachfolgend "Verkäufer" genannt) an Verbraucher und Unternehmer (nachfolgend "Kunden" genannt). Abweichende Bedingungen des Kunden werden nicht anerkannt, es sei denn, der Verkäufer stimmt ihrer Geltung ausdrücklich schriftlich zu.
               </p>
             </CardContent>
           </Card>
@@ -91,14 +91,14 @@ const AGB = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-2">Lieferzeit</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  Die Lieferzeit beträgt in der Regel 1-3 Werktage. Express-Lieferungen sind nach Absprache möglich.
+                  Die Lieferzeit beträgt in der Regel 4-7 Werktage. Express-Lieferungen sind nach Absprache möglich.
                 </p>
               </div>
 
               <div>
                 <h3 className="font-semibold text-gray-900 mb-2">Mindestbestellmenge</h3>
                 <p className="text-gray-700 text-sm leading-relaxed">
-                  Die Mindestbestellmenge beträgt 500 Liter. Bei geringeren Mengen behalten wir uns vor, einen Mindermengenzuschlag zu erheben.
+                  Die Mindestbestellmenge beträgt 1500 Liter. Bei geringeren Mengen behalten wir uns vor, einen Mindermengenzuschlag zu erheben.
                 </p>
               </div>
 
@@ -145,7 +145,7 @@ const AGB = () => {
             </CardHeader>
             <CardContent className="space-y-3">
               <p className="text-gray-700 text-sm leading-relaxed">
-                Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Gerichtsstand ist München, sofern der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.
+                Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Gerichtsstand ist Osnabrück, sofern der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.
               </p>
               <p className="text-gray-700 text-sm leading-relaxed">
                 Sollten einzelne Bestimmungen dieser AGB unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen hiervon unberührt.

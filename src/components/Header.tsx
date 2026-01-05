@@ -30,7 +30,7 @@ const Header = () => {
             <div className="flex items-center space-x-6">
                 <div className="flex items-center space-x-2">
                   <Bell size={14} className="text-accent-orange-500" />
-                  <span>info@greenoil-energie.de</span>
+                  <span>info@uhlen-mineraloel.de</span>
                 </div>
               </div>
               <div className="text-accent-orange-500 font-medium">
@@ -44,7 +44,7 @@ const Header = () => {
             <Link to="/" className="flex items-center">
               <img 
                 src="/lovable-uploads/greenoil.png" 
-                alt="GreenOil" 
+                alt="Uhlen Mineralöl" 
                 className="h-20"
               />
             </Link>
@@ -82,7 +82,7 @@ const Header = () => {
             <Link to="/" className="flex items-center">
               <img 
                 src="/lovable-uploads/greenoil.png" 
-                alt="GreenOil" 
+                alt="Uhlen Mineralöl" 
                 className="h-18"
               />
             </Link>
