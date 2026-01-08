@@ -36,7 +36,7 @@ const Datenschutz = () => {
                 <p>49716 Meppen</p>
                 <p>Deutschland</p>
                 <p className="mt-4">
-                  <span className="font-semibold">E-Mail:</span> info@uhlen-mineraloel.de
+                  <span className="font-semibold">E-Mail:</span> info@uhlenmineraloel.de
                 </p>
               </div>
             </CardContent>
@@ -150,7 +150,7 @@ const Datenschutz = () => {
                 Bei Fragen zum Datenschutz oder zur Ausübung Ihrer Rechte kontaktieren Sie uns unter:
               </p>
               <div className="mt-3 space-y-1 text-gray-700 text-sm">
-                <p><span className="font-semibold">E-Mail:</span> info@uhlen-mineraloel.de</p>
+                <p><span className="font-semibold">E-Mail:</span> info@uhlenmineraloel.de</p>
               </div>
             </CardContent>
           </Card>

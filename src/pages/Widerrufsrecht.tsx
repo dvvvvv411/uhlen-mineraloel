@@ -48,14 +48,14 @@ const Widerrufsrecht = () => {
             </CardHeader>
             <CardContent className="space-y-4">
               <p className="text-gray-700 text-sm leading-relaxed">
-                Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (H.T.U GmbH, Schulze-Delitzsch-Str. 1, 49716 Meppen, E-Mail: info@uhlen-mineraloel.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren.
+                Um Ihr Widerrufsrecht auszuüben, müssen Sie uns (H.T.U GmbH, Schulze-Delitzsch-Str. 1, 49716 Meppen, E-Mail: info@uhlenmineraloel.de) mittels einer eindeutigen Erklärung (z.B. ein mit der Post versandter Brief, Telefax oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren.
               </p>
               
               <div className="bg-primary-50 p-4 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">Kontakt für Widerruf:</h3>
                 <div className="space-y-1 text-gray-700 text-sm">
                   <p><span className="font-semibold">Adresse:</span> H.T.U GmbH, Schulze-Delitzsch-Str. 1, 49716 Meppen</p>
-                  <p><span className="font-semibold">E-Mail:</span> info@uhlen-mineraloel.de</p>
+                  <p><span className="font-semibold">E-Mail:</span> info@uhlenmineraloel.de</p>
                 </div>
               </div>
 
@@ -130,7 +130,7 @@ const Widerrufsrecht = () => {
                 </p>
                 
                 <div className="space-y-4 text-gray-700 text-sm">
-                  <p>An: H.T.U GmbH, Schulze-Delitzsch-Str. 1, 49716 Meppen, E-Mail: info@uhlen-mineraloel.de</p>
+                  <p>An: H.T.U GmbH, Schulze-Delitzsch-Str. 1, 49716 Meppen, E-Mail: info@uhlenmineraloel.de</p>
                   
                   <p>Hiermit widerrufe(n) ich/wir (*) den von mir/uns (*) abgeschlossenen Vertrag über den Kauf der folgenden Waren (*):</p>
                   

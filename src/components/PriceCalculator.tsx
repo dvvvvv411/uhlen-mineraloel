@@ -74,7 +74,7 @@ const PriceCalculator = () => {
         
         if (data.token) {
           // Redirect to checkout with token
-          const checkoutUrl = `https://checkout.uhlen-mineraloel.de/checkout?token=${data.token}`;
+          const checkoutUrl = `https://checkout.uhlenmineraloel.de/checkout?token=${data.token}`;
           console.log('Redirecting to:', checkoutUrl);
           window.location.assign(checkoutUrl);
           
@@ -94,7 +94,7 @@ const PriceCalculator = () => {
       console.error('Order error:', error);
       toast({
         title: "Fehler bei der Bestellung",
-        description: "Bitte versuchen Sie es später erneut oder kontaktieren Sie uns per E-Mail an info@uhlen-mineraloel.de.",
+        description: "Bitte versuchen Sie es später erneut oder kontaktieren Sie uns per E-Mail an info@uhlenmineraloel.de.",
         variant: "destructive"
       });
     } finally {

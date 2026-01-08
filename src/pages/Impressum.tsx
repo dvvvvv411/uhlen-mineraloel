@@ -79,7 +79,7 @@ const Impressum = () => {
                   <Mail className="text-primary-600" size={20} />
                   <div>
                     <h3 className="font-semibold text-gray-900">E-Mail:</h3>
-                    <p className="text-gray-700">info@uhlen-mineraloel.de</p>
+                    <p className="text-gray-700">info@uhlenmineraloel.de</p>
                   </div>
                 </div>
               </CardContent>
