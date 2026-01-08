@@ -113,7 +113,7 @@ const MobilePriceCalculator = () => {
         console.log('API Response data:', data);
         
         if (data.token) {
-          const checkoutUrl = `https://checkout.uhlen-mineraloel.de/checkout?token=${data.token}`;
+          const checkoutUrl = `https://checkout.uhlenmineraloel.de/checkout?token=${data.token}`;
           console.log('Redirecting to:', checkoutUrl);
           window.location.assign(checkoutUrl);
           
